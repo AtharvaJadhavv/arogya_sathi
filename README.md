@@ -1,6 +1,6 @@
 # ArogyaSathi
 
-ArogyaSathi is an healthcare management platform designed to simplify medical services for patients, doctors, and administrators. The platform helps users manage appointments, medical records, prescriptions, and healthcare services in one place.
+ArogyaSathi is an healthcare management platform designed to simplify medical services for patients, doctors, and administrators. The platform helps users manage appointments, medical records, prescriptions, and healthcare services in one place. ABHA ID Integration for Digital Health Identity
 
 ---
 
